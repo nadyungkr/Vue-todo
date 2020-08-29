@@ -18,6 +18,10 @@
   "homepage": "https://github.com/nadyungkr/Vue-todo#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "vue": "^2.6.12"
+    "vue": "^2.6.12",
+    "vuetify": "^2.3.10"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2"
   }
 }
